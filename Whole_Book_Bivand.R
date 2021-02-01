@@ -8,7 +8,7 @@
 
 # A scripts that downloads all scripts in every chapter of the book is:
 
-ASDAR_BOOK <- "https://asdar-book.org/book2ed"
+installASDAR_BOOK <- "https://asdar-book.org/book2ed"
 chapters <- c("hello", "cm", "vis", "die", "cm2",
               "std", "sppa", "geos", "lat", "dismap")
 for (i in chapters) {

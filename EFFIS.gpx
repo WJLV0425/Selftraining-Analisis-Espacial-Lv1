@@ -1,0 +1,1428 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.0.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="35.055665332854943" minlon="19.348807663592488" maxlat="41.290958761853432" maxlon="26.181651846952345"/></metadata>                  
+<wpt lat="39.425789501067349" lon="22.261009103381731">
+  <name>FiresAll.1552</name>
+  <extensions>
+    <ogr:FireDate>26-06-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Krannonos</ogr:Commune>
+    <ogr:Area_HA>376.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5377694.51</ogr:X>
+    <ogr:Y>1900412.0</ogr:Y>
+    <ogr:LastUpdate>26-06-2011</ogr:LastUpdate>
+    <ogr:dt>2011-06-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.437036386398816" lon="20.268306559685527">
+  <name>FiresAll.1543</name>
+  <extensions>
+    <ogr:FireDate>27-06-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Thesprotia</ogr:Province>
+    <ogr:Commune>Dimos Syvoton</ogr:Commune>
+    <ogr:Area_HA>61.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5207097.67</ogr:X>
+    <ogr:Y>1876178.31</ogr:Y>
+    <ogr:LastUpdate>27-06-2011</ogr:LastUpdate>
+    <ogr:dt>2011-06-27</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.963736125124392" lon="20.334750644613909">
+  <name>FiresAll.1432</name>
+  <extensions>
+    <ogr:FireDate>06-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Ioannina</ogr:Province>
+    <ogr:Commune>Dimos Delvinakioy</ogr:Commune>
+    <ogr:Area_HA>42.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5205594.44</ogr:X>
+    <ogr:Y>1934736.38</ogr:Y>
+    <ogr:LastUpdate>22-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-06</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.903318355037165" lon="23.030042329812385">
+  <name>FiresAll.1499</name>
+  <extensions>
+    <ogr:FireDate>10-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Evvoia</ogr:Province>
+    <ogr:Commune>Dimos Aidipsoy</ogr:Commune>
+    <ogr:Area_HA>514.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5452192.59</ogr:X>
+    <ogr:Y>1854368.07</ogr:Y>
+    <ogr:LastUpdate>11-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-10</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.893481962355153" lon="20.000486021854059">
+  <name>FiresAll.1488</name>
+  <extensions>
+    <ogr:FireDate>11-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>483.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5178105.15</ogr:X>
+    <ogr:Y>1923191.38</ogr:Y>
+    <ogr:LastUpdate>13-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-11</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.856007155898233" lon="20.665140834651083">
+  <name>FiresAll.1490</name>
+  <extensions>
+    <ogr:FireDate>11-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Zakynthos</ogr:Province>
+    <ogr:Commune>Dimos Elation</ogr:Commune>
+    <ogr:Area_HA>61.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5263079.26</ogr:X>
+    <ogr:Y>1707693.83</ogr:Y>
+    <ogr:LastUpdate>13-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-11</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.038705309616113" lon="21.769299598290971">
+  <name>FiresAll.1498</name>
+  <extensions>
+    <ogr:FireDate>11-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Achaia</ogr:Province>
+    <ogr:Commune>Dimos Farron</ogr:Commune>
+    <ogr:Area_HA>81.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5357010.71</ogr:X>
+    <ogr:Y>1741969.59</ogr:Y>
+    <ogr:LastUpdate>12-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-11</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.749611463842903" lon="20.124723541440297">
+  <name>FiresAll.1459</name>
+  <extensions>
+    <ogr:FireDate>13-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>68.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5190611.49</ogr:X>
+    <ogr:Y>1908813.35</ogr:Y>
+    <ogr:LastUpdate>19-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-13</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.421496702430112" lon="19.539800119574821">
+  <name>FiresAll.1455</name>
+  <extensions>
+    <ogr:FireDate>14-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>313.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5132160.2</ogr:X>
+    <ogr:Y>1976116.37</ogr:Y>
+    <ogr:LastUpdate>19-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-14</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="35.108939397819654" lon="24.608879476821787">
+  <name>FiresAll.1460</name>
+  <extensions>
+    <ogr:FireDate>14-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Rethymni</ogr:Province>
+    <ogr:Commune>Dimos Lampis</ogr:Commune>
+    <ogr:Area_HA>513.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5658066.59</ogr:X>
+    <ogr:Y>1466663.32</ogr:Y>
+    <ogr:LastUpdate>19-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-14</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.924051182001413" lon="20.074500313298039">
+  <name>FiresAll.1458</name>
+  <extensions>
+    <ogr:FireDate>15-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>98.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5183998.45</ogr:X>
+    <ogr:Y>1927385.28</ogr:Y>
+    <ogr:LastUpdate>19-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-15</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.073255580194477" lon="20.268856859165812">
+  <name>FiresAll.1456</name>
+  <extensions>
+    <ogr:FireDate>16-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>84.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5198500.05</ogr:X>
+    <ogr:Y>1945990.13</ogr:Y>
+    <ogr:LastUpdate>19-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-16</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.053977651593442" lon="20.124191295622733">
+  <name>FiresAll.1457</name>
+  <extensions>
+    <ogr:FireDate>16-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>79.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5186480.74</ogr:X>
+    <ogr:Y>1942212.6</ogr:Y>
+    <ogr:LastUpdate>19-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-16</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="35.055665332854943" lon="24.821490240786581">
+  <name>FiresAll.1461</name>
+  <extensions>
+    <ogr:FireDate>16-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Irakleio</ogr:Province>
+    <ogr:Commune>Dimos Tympakioy</ogr:Commune>
+    <ogr:Area_HA>71.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5678238.46</ogr:X>
+    <ogr:Y>1464597.5</ogr:Y>
+    <ogr:LastUpdate>19-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-16</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.851519901127979" lon="22.04991853400179">
+  <name>FiresAll.1413</name>
+  <extensions>
+    <ogr:FireDate>20-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Elassonos</ogr:Commune>
+    <ogr:Area_HA>693.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5352901.3</ogr:X>
+    <ogr:Y>1944094.71</ogr:Y>
+    <ogr:LastUpdate>24-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-20</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.833500469419697" lon="22.553056976462521">
+  <name>FiresAll.1426</name>
+  <extensions>
+    <ogr:FireDate>20-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Makrychorioy</ogr:Commune>
+    <ogr:Area_HA>494.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5395852.48</ogr:X>
+    <ogr:Y>1949108.27</ogr:Y>
+    <ogr:LastUpdate>22-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-20</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.624270849707131" lon="20.810323715893304">
+  <name>FiresAll.1438</name>
+  <extensions>
+    <ogr:FireDate>20-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Ioannina</ogr:Province>
+    <ogr:Commune>Dimos Ioanniton</ogr:Commune>
+    <ogr:Area_HA>850.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5250854.36</ogr:X>
+    <ogr:Y>1903184.9</ogr:Y>
+    <ogr:LastUpdate>21-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-20</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="36.488039305664962" lon="22.442100623309237">
+  <name>FiresAll.1412</name>
+  <extensions>
+    <ogr:FireDate>23-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Lakonia</ogr:Province>
+    <ogr:Commune>Dimos Oityloy</ogr:Commune>
+    <ogr:Area_HA>257.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5440340.35</ogr:X>
+    <ogr:Y>1582125.9</ogr:Y>
+    <ogr:LastUpdate>24-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-23</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.714207968717957" lon="24.95900209155095">
+  <name>FiresAll.1393</name>
+  <extensions>
+    <ogr:FireDate>25-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Kyklades</ogr:Province>
+    <ogr:Commune>Dimos Korthioy</ogr:Commune>
+    <ogr:Area_HA>105.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5640437.56</ogr:X>
+    <ogr:Y>1755771.02</ogr:Y>
+    <ogr:LastUpdate>26-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-25</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.213681102272631" lon="22.398600187332605">
+  <name>FiresAll.1318</name>
+  <extensions>
+    <ogr:FireDate>28-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Fthiotida</ogr:Province>
+    <ogr:Commune>Dimos Domokoy</ogr:Commune>
+    <ogr:Area_HA>248.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5392892.43</ogr:X>
+    <ogr:Y>1879140.83</ogr:Y>
+    <ogr:LastUpdate>31-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-28</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="35.148941437220842" lon="24.625849942471323">
+  <name>FiresAll.1317</name>
+  <extensions>
+    <ogr:FireDate>29-07-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Rethymni</ogr:Province>
+    <ogr:Commune>Dimos Lampis</ogr:Commune>
+    <ogr:Area_HA>2859.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5658873.05</ogr:X>
+    <ogr:Y>1471299.13</ogr:Y>
+    <ogr:LastUpdate>31-07-2011</ogr:LastUpdate>
+    <ogr:dt>2011-07-29</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.739797725052654" lon="20.816100853523189">
+  <name>FiresAll.1300</name>
+  <extensions>
+    <ogr:FireDate>01-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Ioannina</ogr:Province>
+    <ogr:Commune>Dimos Peramatos</ogr:Commune>
+    <ogr:Area_HA>191.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5249695.92</ogr:X>
+    <ogr:Y>1915921.4</ogr:Y>
+    <ogr:LastUpdate>02-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-01</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.760036628913163" lon="20.793777781666112">
+  <name>FiresAll.1298</name>
+  <extensions>
+    <ogr:FireDate>02-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Zakynthos</ogr:Province>
+    <ogr:Commune>Dimos Artemision</ogr:Commune>
+    <ogr:Area_HA>31.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5275693.24</ogr:X>
+    <ogr:Y>1698785.44</ogr:Y>
+    <ogr:LastUpdate>03-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-02</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.761879040326932" lon="19.889685999647405">
+  <name>FiresAll.1275</name>
+  <extensions>
+    <ogr:FireDate>04-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Kerkyra</ogr:Province>
+    <ogr:Commune>Dimos Kassopaion</ogr:Commune>
+    <ogr:Area_HA>1151.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5170393.8</ogr:X>
+    <ogr:Y>1907500.46</ogr:Y>
+    <ogr:LastUpdate>07-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-04</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.070967182782532" lon="26.116712035447865">
+  <name>FiresAll.1277</name>
+  <extensions>
+    <ogr:FireDate>04-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Lesvos</ogr:Province>
+    <ogr:Commune>Dimos Polichnitoy</ogr:Commune>
+    <ogr:Area_HA>703.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5712544.43</ogr:X>
+    <ogr:Y>1923858.52</ogr:Y>
+    <ogr:LastUpdate>07-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-04</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.572520113586847" lon="22.743694736028523">
+  <name>FiresAll.1271</name>
+  <extensions>
+    <ogr:FireDate>05-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Fthiotida</ogr:Province>
+    <ogr:Commune>Dimos Tithoreas</ogr:Commune>
+    <ogr:Area_HA>139.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5433098.2</ogr:X>
+    <ogr:Y>1814021.51</ogr:Y>
+    <ogr:LastUpdate>08-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-05</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.219673947790881" lon="22.408437837241109">
+  <name>FiresAll.1264</name>
+  <extensions>
+    <ogr:FireDate>08-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Farsalon</ogr:Commune>
+    <ogr:Area_HA>37.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5393636.78</ogr:X>
+    <ogr:Y>1879934.84</ogr:Y>
+    <ogr:LastUpdate>09-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-08</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.366452607759911" lon="23.153939269170539">
+  <name>FiresAll.1223</name>
+  <extensions>
+    <ogr:FireDate>10-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Voiotia</ogr:Province>
+    <ogr:Commune>Dimos Thespieon</ogr:Commune>
+    <ogr:Area_HA>54.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5472028.08</ogr:X>
+    <ogr:Y>1797612.84</ogr:Y>
+    <ogr:LastUpdate>11-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-10</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.478242656220637" lon="22.241134214540377">
+  <name>FiresAll.1240</name>
+  <extensions>
+    <ogr:FireDate>10-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Krannonos</ogr:Commune>
+    <ogr:Area_HA>359.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5375152.59</ogr:X>
+    <ogr:Y>1905873.9</ogr:Y>
+    <ogr:LastUpdate>11-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-10</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.41356818676482" lon="22.320865092789703">
+  <name>FiresAll.1126</name>
+  <extensions>
+    <ogr:FireDate>15-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Krannonos</ogr:Commune>
+    <ogr:Area_HA>593.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5383000.49</ogr:X>
+    <ogr:Y>1899909.65</ogr:Y>
+    <ogr:LastUpdate>16-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-15</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.274950562815327" lon="22.327411229177528">
+  <name>FiresAll.1091</name>
+  <extensions>
+    <ogr:FireDate>16-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Farsalon</ogr:Commune>
+    <ogr:Area_HA>74.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5385806.76</ogr:X>
+    <ogr:Y>1884840.63</ogr:Y>
+    <ogr:LastUpdate>18-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-16</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.590890465587982" lon="20.78194877033318">
+  <name>FiresAll.1063</name>
+  <extensions>
+    <ogr:FireDate>17-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Ioannina</ogr:Province>
+    <ogr:Commune>Dimos Mpizanioy</ogr:Commune>
+    <ogr:Area_HA>150.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5248907.43</ogr:X>
+    <ogr:Y>1899178.53</ogr:Y>
+    <ogr:LastUpdate>21-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-17</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.845377915938734" lon="23.979322685942133">
+  <name>FiresAll.1085</name>
+  <extensions>
+    <ogr:FireDate>17-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Attiki</ogr:Province>
+    <ogr:Commune>Koinotita Koyvara</ogr:Commune>
+    <ogr:Area_HA>252.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5552788.72</ogr:X>
+    <ogr:Y>1753682.27</ogr:Y>
+    <ogr:LastUpdate>19-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-17</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.493719856279363" lon="22.073801310076281">
+  <name>FiresAll.941</name>
+  <extensions>
+    <ogr:FireDate>18-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Arkadia</ogr:Province>
+    <ogr:Commune>Dimos Trikolonon</ogr:Commune>
+    <ogr:Area_HA>64.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5392042.4</ogr:X>
+    <ogr:Y>1686615.05</ogr:Y>
+    <ogr:LastUpdate>23-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-18</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.407016285608016" lon="24.002201209884301">
+  <name>FiresAll.944</name>
+  <extensions>
+    <ogr:FireDate>19-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Evvoia</ogr:Province>
+    <ogr:Commune>Dimos Taminaion</ogr:Commune>
+    <ogr:Area_HA>65.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5544606.75</ogr:X>
+    <ogr:Y>1815249.85</ogr:Y>
+    <ogr:LastUpdate>23-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-19</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.006949524418317" lon="21.5380304567528">
+  <name>FiresAll.942</name>
+  <extensions>
+    <ogr:FireDate>20-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Achaia</ogr:Province>
+    <ogr:Commune>Dimos Olenias</ogr:Commune>
+    <ogr:Area_HA>80.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5337302.39</ogr:X>
+    <ogr:Y>1735390.91</ogr:Y>
+    <ogr:LastUpdate>23-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-20</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.675794816681552" lon="20.231166918118809">
+  <name>FiresAll.1065</name>
+  <extensions>
+    <ogr:FireDate>20-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Thesprotia</ogr:Province>
+    <ogr:Commune>Dimos Filiaton</ogr:Commune>
+    <ogr:Area_HA>28.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5200690.64</ogr:X>
+    <ogr:Y>1901939.1</ogr:Y>
+    <ogr:LastUpdate>21-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-20</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.459807660932086" lon="21.308349475383022">
+  <name>FiresAll.882</name>
+  <extensions>
+    <ogr:FireDate>22-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Aitoloakarnania</ogr:Province>
+    <ogr:Commune>Dimos Aitolikoy</ogr:Commune>
+    <ogr:Area_HA>51.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5310600.01</ogr:X>
+    <ogr:Y>1781914.0</ogr:Y>
+    <ogr:LastUpdate>25-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-22</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.172976901501471" lon="21.383752452217752">
+  <name>FiresAll.943</name>
+  <extensions>
+    <ogr:FireDate>22-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Achaia</ogr:Province>
+    <ogr:Commune>Dimos Larissoy</ogr:Commune>
+    <ogr:Area_HA>335.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5321381.45</ogr:X>
+    <ogr:Y>1751513.28</ogr:Y>
+    <ogr:LastUpdate>23-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-22</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="36.723029204162067" lon="22.52063935227779">
+  <name>FiresAll.981</name>
+  <extensions>
+    <ogr:FireDate>22-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Lakonia</ogr:Province>
+    <ogr:Commune>Dimos Gytheioy</ogr:Commune>
+    <ogr:Area_HA>157.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5443606.62</ogr:X>
+    <ogr:Y>1608898.93</ogr:Y>
+    <ogr:LastUpdate>23-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-22</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.390821158901424" lon="21.617275992156131">
+  <name>FiresAll.775</name>
+  <extensions>
+    <ogr:FireDate>23-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Aitoloakarnania</ogr:Province>
+    <ogr:Commune>Dimos Chalkeias</ogr:Commune>
+    <ogr:Area_HA>334.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5338443.85</ogr:X>
+    <ogr:Y>1778429.91</ogr:Y>
+    <ogr:LastUpdate>30-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-23</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.815002341679723" lon="21.14475872284563">
+  <name>FiresAll.826</name>
+  <extensions>
+    <ogr:FireDate>23-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Aitoloakarnania</ogr:Province>
+    <ogr:Commune>Dimos Amfilochias</ogr:Commune>
+    <ogr:Area_HA>2074.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5291239.42</ogr:X>
+    <ogr:Y>1818693.56</ogr:Y>
+    <ogr:LastUpdate>28-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-23</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.744373544336817" lon="23.161113192465312">
+  <name>FiresAll.840</name>
+  <extensions>
+    <ogr:FireDate>23-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Thessaloniki</ogr:Province>
+    <ogr:Commune>Dimos Lagkada</ogr:Commune>
+    <ogr:Area_HA>67.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5431383.13</ogr:X>
+    <ogr:Y>2057500.0</ogr:Y>
+    <ogr:LastUpdate>27-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-23</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.289352731580713" lon="22.03377703847293">
+  <name>FiresAll.914</name>
+  <extensions>
+    <ogr:FireDate>23-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Arkadia</ogr:Province>
+    <ogr:Commune>Dimos Megalopolis</ogr:Commune>
+    <ogr:Area_HA>353.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5391676.47</ogr:X>
+    <ogr:Y>1663736.74</ogr:Y>
+    <ogr:LastUpdate>24-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-23</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.881666590761135" lon="25.713977112593373">
+  <name>FiresAll.937</name>
+  <extensions>
+    <ogr:FireDate>23-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Evros</ogr:Province>
+    <ogr:Commune>Dimos Alexandroypolis</ogr:Commune>
+    <ogr:Area_HA>212.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5640652.53</ogr:X>
+    <ogr:Y>2113551.66</ogr:Y>
+    <ogr:LastUpdate>24-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-23</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.320836087581398" lon="20.553214713974729">
+  <name>FiresAll.945</name>
+  <extensions>
+    <ogr:FireDate>23-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Thesprotia</ogr:Province>
+    <ogr:Commune>Dimos Acheronta</ogr:Commune>
+    <ogr:Area_HA>74.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5233122.63</ogr:X>
+    <ogr:Y>1866803.67</ogr:Y>
+    <ogr:LastUpdate>23-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-23</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="41.005774569096957" lon="26.114510701023129">
+  <name>FiresAll.778</name>
+  <extensions>
+    <ogr:FireDate>24-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Evros</ogr:Province>
+    <ogr:Commune>Dimos Tycheroy</ogr:Commune>
+    <ogr:Area_HA>6245.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5671036.49</ogr:X>
+    <ogr:Y>2134143.05</ogr:Y>
+    <ogr:LastUpdate>30-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-24</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.66862000666103" lon="21.170869978877729">
+  <name>FiresAll.832</name>
+  <extensions>
+    <ogr:FireDate>24-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Aitoloakarnania</ogr:Province>
+    <ogr:Commune>Dimos Astakoy</ogr:Commune>
+    <ogr:Area_HA>1470.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5295628.81</ogr:X>
+    <ogr:Y>1802999.54</ogr:Y>
+    <ogr:LastUpdate>28-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-24</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.862381985979859" lon="20.955022356129831">
+  <name>FiresAll.883</name>
+  <extensions>
+    <ogr:FireDate>24-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Aitoloakarnania</ogr:Province>
+    <ogr:Commune>Dimos Anaktorioy</ogr:Commune>
+    <ogr:Area_HA>211.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5274172.24</ogr:X>
+    <ogr:Y>1821487.28</ogr:Y>
+    <ogr:LastUpdate>25-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-24</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.502878985200269" lon="21.211268077478582">
+  <name>FiresAll.817</name>
+  <extensions>
+    <ogr:FireDate>25-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Aitoloakarnania</ogr:Province>
+    <ogr:Commune>Dimos Oiniadon</ogr:Commune>
+    <ogr:Area_HA>55.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5301545.36</ogr:X>
+    <ogr:Y>1785374.26</ogr:Y>
+    <ogr:LastUpdate>28-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-25</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.906887745946563" lon="22.230457951625841">
+  <name>FiresAll.839</name>
+  <extensions>
+    <ogr:FireDate>25-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Pella</ogr:Province>
+    <ogr:Commune>Dimos Exaplatanoy</ogr:Commune>
+    <ogr:Area_HA>281.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5351004.27</ogr:X>
+    <ogr:Y>2062110.38</ogr:Y>
+    <ogr:LastUpdate>27-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-25</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.750075508175762" lon="20.730981669656494">
+  <name>FiresAll.862</name>
+  <extensions>
+    <ogr:FireDate>25-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Zakynthos</ogr:Province>
+    <ogr:Commune>Dimos Artemision</ogr:Commune>
+    <ogr:Area_HA>2369.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5270317.8</ogr:X>
+    <ogr:Y>1696913.82</ogr:Y>
+    <ogr:LastUpdate>27-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-25</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.170772288825773" lon="21.75561093080735">
+  <name>FiresAll.879</name>
+  <extensions>
+    <ogr:FireDate>25-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Achaia</ogr:Province>
+    <ogr:Commune>Dimos Messatidos</ogr:Commune>
+    <ogr:Area_HA>28.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5353807.39</ogr:X>
+    <ogr:Y>1756223.16</ogr:Y>
+    <ogr:LastUpdate>25-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-25</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.839463519251517" lon="20.643959911755147">
+  <name>FiresAll.978</name>
+  <extensions>
+    <ogr:FireDate>25-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Ioannina</ogr:Province>
+    <ogr:Commune>Dimos Ekalis</ogr:Commune>
+    <ogr:Area_HA>186.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5233621.37</ogr:X>
+    <ogr:Y>1924763.5</ogr:Y>
+    <ogr:LastUpdate>23-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-25</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.441515382074321" lon="22.211195562799286">
+  <name>FiresAll.779</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Fokida</ogr:Province>
+    <ogr:Commune>Dimos Lidorikioy</ogr:Commune>
+    <ogr:Area_HA>1808.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5389167.42</ogr:X>
+    <ogr:Y>1792092.74</ogr:Y>
+    <ogr:LastUpdate>30-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.513782923026781" lon="25.983911527661547">
+  <name>FiresAll.780</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Chios</ogr:Province>
+    <ogr:Commune>Dimos Amanis</ogr:Commune>
+    <ogr:Area_HA>1476.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5712884.04</ogr:X>
+    <ogr:Y>1860902.83</ogr:Y>
+    <ogr:LastUpdate>30-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.352210543201146" lon="22.263691776478112">
+  <name>FiresAll.794</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Arkadia</ogr:Province>
+    <ogr:Commune>Dimos Valtetsioy</ogr:Commune>
+    <ogr:Area_HA>1761.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5410951.22</ogr:X>
+    <ogr:Y>1673843.67</ogr:Y>
+    <ogr:LastUpdate>29-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.388214816975477" lon="21.513196246076777">
+  <name>FiresAll.830</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Aitoloakarnania</ogr:Province>
+    <ogr:Commune>Dimos Ieras Polis Mesologgioy</ogr:Commune>
+    <ogr:Area_HA>630.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5329445.73</ogr:X>
+    <ogr:Y>1776762.96</ogr:Y>
+    <ogr:LastUpdate>28-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.860230497145203" lon="21.100506679357075">
+  <name>FiresAll.831</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Aitoloakarnania</ogr:Province>
+    <ogr:Commune>Dimos Amfilochias</ogr:Commune>
+    <ogr:Area_HA>433.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5286761.49</ogr:X>
+    <ogr:Y>1823083.95</ogr:Y>
+    <ogr:LastUpdate>28-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.126104905194254" lon="20.692396360489521">
+  <name>FiresAll.833</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Preveza</ogr:Province>
+    <ogr:Commune>Dimos Zaloggoy</ogr:Commune>
+    <ogr:Area_HA>242.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5247799.13</ogr:X>
+    <ogr:Y>1847139.87</ogr:Y>
+    <ogr:LastUpdate>28-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.239282686590663" lon="20.912554830287068">
+  <name>FiresAll.834</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Arta</ogr:Province>
+    <ogr:Commune>Dimos Xirovoynioy</ogr:Commune>
+    <ogr:Area_HA>282.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5265114.52</ogr:X>
+    <ogr:Y>1862248.88</ogr:Y>
+    <ogr:LastUpdate>28-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.862573690242883" lon="23.77684409260349">
+  <name>FiresAll.841</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Attiki</ogr:Province>
+    <ogr:Commune>Dimos Glyfadas</ogr:Commune>
+    <ogr:Area_HA>77.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5534861.23</ogr:X>
+    <ogr:Y>1752313.5</ogr:Y>
+    <ogr:LastUpdate>27-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.958010453891042" lon="21.559445954402189">
+  <name>FiresAll.842</name>
+  <extensions>
+    <ogr:FireDate>26-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Achaia</ogr:Province>
+    <ogr:Commune>Dimos Olenias</ogr:Commune>
+    <ogr:Area_HA>97.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5339903.45</ogr:X>
+    <ogr:Y>1730324.68</ogr:Y>
+    <ogr:LastUpdate>27-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="35.434133737985043" lon="23.578023647692422">
+  <name>FiresAll.816</name>
+  <extensions>
+    <ogr:FireDate>27-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Chania</ogr:Province>
+    <ogr:Commune>Dimos Kissamoy</ogr:Commune>
+    <ogr:Area_HA>46.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5559359.09</ogr:X>
+    <ogr:Y>1484768.39</ogr:Y>
+    <ogr:LastUpdate>28-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-27</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.677781444154789" lon="20.091338333704151">
+  <name>FiresAll.730</name>
+  <extensions>
+    <ogr:FireDate>28-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Thesprotia</ogr:Province>
+    <ogr:Commune>Dimos Sagiadas</ogr:Commune>
+    <ogr:Area_HA>24.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5188721.77</ogr:X>
+    <ogr:Y>1900549.23</ogr:Y>
+    <ogr:LastUpdate>01-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-28</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.663418705945347" lon="20.111979809355748">
+  <name>FiresAll.731</name>
+  <extensions>
+    <ogr:FireDate>28-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Thesprotia</ogr:Province>
+    <ogr:Commune>Dimos Sagiadas</ogr:Commune>
+    <ogr:Area_HA>26.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5190676.83</ogr:X>
+    <ogr:Y>1899209.14</ogr:Y>
+    <ogr:LastUpdate>01-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-28</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="35.230828416575349" lon="25.248615927025085">
+  <name>FiresAll.782</name>
+  <extensions>
+    <ogr:FireDate>28-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Irakleio</ogr:Province>
+    <ogr:Commune>Dimos Thrapsanoy</ogr:Commune>
+    <ogr:Area_HA>61.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5713474.99</ogr:X>
+    <ogr:Y>1491214.89</ogr:Y>
+    <ogr:LastUpdate>30-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-28</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.403784842721969" lon="19.533973673726191">
+  <name>FiresAll.783</name>
+  <extensions>
+    <ogr:FireDate>29-08-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>200.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5131893.13</ogr:X>
+    <ogr:Y>1974107.81</ogr:Y>
+    <ogr:LastUpdate>30-08-2011</ogr:LastUpdate>
+    <ogr:dt>2011-08-29</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.11942818314327" lon="20.774568371536621">
+  <name>FiresAll.691</name>
+  <extensions>
+    <ogr:FireDate>02-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Kefallinia</ogr:Province>
+    <ogr:Commune>Dimos Eleioy-Pronon</ogr:Commune>
+    <ogr:Area_HA>138.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5269005.72</ogr:X>
+    <ogr:Y>1737882.84</ogr:Y>
+    <ogr:LastUpdate>04-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-02</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.244148169373247" lon="20.63085866737385">
+  <name>FiresAll.637</name>
+  <extensions>
+    <ogr:FireDate>03-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Preveza</ogr:Province>
+    <ogr:Commune>Dimos Fanarioy</ogr:Commune>
+    <ogr:Area_HA>67.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5240856.37</ogr:X>
+    <ogr:Y>1859331.52</ogr:Y>
+    <ogr:LastUpdate>05-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-03</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.267069442400654" lon="22.589984668674557">
+  <name>FiresAll.528</name>
+  <extensions>
+    <ogr:FireDate>06-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Magnisia</ogr:Province>
+    <ogr:Commune>Dimos Almyroy</ogr:Commune>
+    <ogr:Area_HA>643.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5408386.18</ogr:X>
+    <ogr:Y>1887695.56</ogr:Y>
+    <ogr:LastUpdate>14-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-06</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.549332599326249" lon="22.142967682318361">
+  <name>FiresAll.533</name>
+  <extensions>
+    <ogr:FireDate>06-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Arkadia</ogr:Province>
+    <ogr:Commune>Dimos Trikolonon</ogr:Commune>
+    <ogr:Area_HA>86.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5397253.41</ogr:X>
+    <ogr:Y>1693659.26</ogr:Y>
+    <ogr:LastUpdate>14-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-06</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.407052843932988" lon="22.323190886747952">
+  <name>FiresAll.509</name>
+  <extensions>
+    <ogr:FireDate>14-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Fokida</ogr:Province>
+    <ogr:Commune>Dimos Galaxidioy</ogr:Commune>
+    <ogr:Area_HA>163.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5399420.45</ogr:X>
+    <ogr:Y>1789902.62</ogr:Y>
+    <ogr:LastUpdate>15-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-14</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.362714614444073" lon="22.551380619259771">
+  <name>FiresAll.510</name>
+  <extensions>
+    <ogr:FireDate>14-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Polydamanta</ogr:Commune>
+    <ogr:Area_HA>97.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5403507.9</ogr:X>
+    <ogr:Y>1897601.08</ogr:Y>
+    <ogr:LastUpdate>15-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-14</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="41.272897106536099" lon="22.97573723156281">
+  <name>FiresAll.431</name>
+  <extensions>
+    <ogr:FireDate>15-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Serres</ogr:Province>
+    <ogr:Commune>Dimos Kerkinis</ogr:Commune>
+    <ogr:Area_HA>285.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5406704.22</ogr:X>
+    <ogr:Y>2112619.34</ogr:Y>
+    <ogr:LastUpdate>24-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-15</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="41.290958761853432" lon="22.813521221533943">
+  <name>FiresAll.432</name>
+  <extensions>
+    <ogr:FireDate>16-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Kilkis</ogr:Province>
+    <ogr:Commune>Dimos Moyrion</ogr:Commune>
+    <ogr:Area_HA>41.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5392967.87</ogr:X>
+    <ogr:Y>2112277.03</ogr:Y>
+    <ogr:LastUpdate>24-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-16</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.828798031049473" lon="24.843326063889361">
+  <name>FiresAll.490</name>
+  <extensions>
+    <ogr:FireDate>16-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Kyklades</ogr:Province>
+    <ogr:Commune>Dimos Ydroysas</ogr:Commune>
+    <ogr:Area_HA>73.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5628190.51</ogr:X>
+    <ogr:Y>1766244.33</ogr:Y>
+    <ogr:LastUpdate>17-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-16</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="38.044710582708873" lon="24.550809421087823">
+  <name>FiresAll.491</name>
+  <extensions>
+    <ogr:FireDate>16-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Evvoia</ogr:Province>
+    <ogr:Commune>Koinotita Kafireos</ogr:Commune>
+    <ogr:Area_HA>412.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5598731.39</ogr:X>
+    <ogr:Y>1784784.99</ogr:Y>
+    <ogr:LastUpdate>17-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-16</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.364699254226217" lon="22.655499650531532">
+  <name>FiresAll.465</name>
+  <extensions>
+    <ogr:FireDate>17-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Magnisia</ogr:Province>
+    <ogr:Commune>Dimos Feron</ogr:Commune>
+    <ogr:Area_HA>82.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5412361.5</ogr:X>
+    <ogr:Y>1899307.26</ogr:Y>
+    <ogr:LastUpdate>18-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-17</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.367886511926656" lon="22.63744038235793">
+  <name>FiresAll.466</name>
+  <extensions>
+    <ogr:FireDate>17-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Magnisia</ogr:Province>
+    <ogr:Commune>Dimos Feron</ogr:Commune>
+    <ogr:Area_HA>172.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5410767.35</ogr:X>
+    <ogr:Y>1899396.51</ogr:Y>
+    <ogr:LastUpdate>18-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-17</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.291499268459191" lon="19.412243457292448">
+  <name>FiresAll.467</name>
+  <extensions>
+    <ogr:FireDate>17-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>94.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5123009.65</ogr:X>
+    <ogr:Y>1960474.56</ogr:Y>
+    <ogr:LastUpdate>18-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-17</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="37.891719449442419" lon="21.761029574774625">
+  <name>FiresAll.14</name>
+  <extensions>
+    <ogr:FireDate>19-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Ileia</ogr:Province>
+    <ogr:Commune>Dimos Lasionos</ogr:Commune>
+    <ogr:Area_HA>113.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5358522.03</ogr:X>
+    <ogr:Y>1725789.59</ogr:Y>
+    <ogr:LastUpdate>22-10-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-19</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="35.414078814723688" lon="23.625071418966922">
+  <name>FiresAll.428</name>
+  <extensions>
+    <ogr:FireDate>20-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Chania</ogr:Province>
+    <ogr:Commune>Dimos Kissamoy</ogr:Commune>
+    <ogr:Area_HA>33.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5563940.59</ogr:X>
+    <ogr:Y>1483345.29</ogr:Y>
+    <ogr:LastUpdate>24-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-20</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.219645256119762" lon="26.017762544708663">
+  <name>FiresAll.406</name>
+  <extensions>
+    <ogr:FireDate>25-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Lesvos</ogr:Province>
+    <ogr:Commune>Dimos Eresoy-Antissis</ogr:Commune>
+    <ogr:Area_HA>69.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5701024.23</ogr:X>
+    <ogr:Y>1938206.29</ogr:Y>
+    <ogr:LastUpdate>26-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-25</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.067336291051923" lon="26.181651846952345">
+  <name>FiresAll.397</name>
+  <extensions>
+    <ogr:FireDate>26-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Lesvos</ogr:Province>
+    <ogr:Commune>Dimos Polichnitoy</ogr:Commune>
+    <ogr:Area_HA>68.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5718132.84</ogr:X>
+    <ogr:Y>1924656.51</ogr:Y>
+    <ogr:LastUpdate>26-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-26</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="36.243598146436362" lon="23.061261490862009">
+  <name>FiresAll.394</name>
+  <extensions>
+    <ogr:FireDate>27-09-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Attiki</ogr:Province>
+    <ogr:Commune>Dimos Kythiron</ogr:Commune>
+    <ogr:Area_HA>33.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5499487.38</ogr:X>
+    <ogr:Y>1564746.56</ogr:Y>
+    <ogr:LastUpdate>29-09-2011</ogr:LastUpdate>
+    <ogr:dt>2011-09-27</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="39.399749049918434" lon="22.54531575556911">
+  <name>FiresAll.64</name>
+  <extensions>
+    <ogr:FireDate>07-10-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Larisa</ogr:Province>
+    <ogr:Commune>Dimos Polydamanta</ogr:Commune>
+    <ogr:Area_HA>92.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5402378.83</ogr:X>
+    <ogr:Y>1901563.94</ogr:Y>
+    <ogr:LastUpdate>20-10-2011</ogr:LastUpdate>
+    <ogr:dt>2011-10-07</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="40.648582956807523" lon="19.348807663592488">
+  <name>FiresAll.65</name>
+  <extensions>
+    <ogr:FireDate>07-10-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Not Available</ogr:Province>
+    <ogr:Commune>Not Available</ogr:Commune>
+    <ogr:Area_HA>52.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5113175.95</ogr:X>
+    <ogr:Y>1999053.84</ogr:Y>
+    <ogr:LastUpdate>20-10-2011</ogr:LastUpdate>
+    <ogr:dt>2011-10-07</ogr:dt>
+  </extensions>
+</wpt>
+<wpt lat="36.736659063572013" lon="22.369381247661224">
+  <name>FiresAll.63</name>
+  <extensions>
+    <ogr:FireDate>13-10-2011</ogr:FireDate>
+    <ogr:Country>GR</ogr:Country>
+    <ogr:Province>Lakonia</ogr:Province>
+    <ogr:Commune>Dimos Oityloy</ogr:Commune>
+    <ogr:Area_HA>72.0</ogr:Area_HA>
+    <ogr:CountryFul>Greece</ogr:CountryFul>
+    <ogr:Class>ALL</ogr:Class>
+    <ogr:X>5429963.26</ogr:X>
+    <ogr:Y>1608185.9</ogr:Y>
+    <ogr:LastUpdate>20-10-2011</ogr:LastUpdate>
+    <ogr:dt>2011-10-13</ogr:dt>
+  </extensions>
+</wpt>
+</gpx>
